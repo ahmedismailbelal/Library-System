@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1608850580 source:d:\c++\assinment 2\main.cpp
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<string>
+	<UserList.h>
+	<BookList.h>
+
+1608850786 d:\c++\assinment 2\include\user.h
+	<string>
+
+1608850767 d:\c++\assinment 2\include\book.h
+	<string>
+	<user.h>
+
+1608850612 d:\c++\assinment 2\include\userlist.h
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<string>
+
+1608850673 d:\c++\assinment 2\include\booklist.h
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<string>
+
+1608850694 source:d:\c++\assinment 2\src\booklist.cpp
+	"Book.h"
+	<string>
+	<iostream>
+	"BookList.h"
+
+1608850813 source:d:\c++\assinment 2\src\user.cpp
+	"User.h"
+	<string>
+	<iostream>
+
+1608850580 source:d:\assinment 2\main.cpp
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<string>
+	<UserList.h>
+	<BookList.h>
+
+1608850786 d:\assinment 2\include\user.h
+	<string>
+
+1608850767 d:\assinment 2\include\book.h
+	<string>
+	<user.h>
+
+1608850612 d:\assinment 2\include\userlist.h
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<string>
+
+1608850673 d:\assinment 2\include\booklist.h
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<string>
+
+1608851634 source:d:\assinment 2\src\book.cpp
+	"Book.h"
+	<string>
+	<iostream>
+
+1608852722 source:d:\assinment 2\src\booklist.cpp
+	"Book.h"
+	<string>
+	<iostream>
+	"BookList.h"
+
+1608850813 source:d:\assinment 2\src\user.cpp
+	"User.h"
+	<string>
+	<iostream>
+
+1608852706 source:d:\assinment 2\src\userlist.cpp
+	"UserList.h"
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<string>
+
